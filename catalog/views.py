@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def RedirectView ():
-  return HttpResponse('hello world')
+  return HttpResponse('hello0 world')
